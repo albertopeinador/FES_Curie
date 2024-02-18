@@ -1,5 +1,11 @@
-$\Huge{\text{About this project}}$
+$\LARGE{\text{Main Programme}}$
 
-Project developed as part of the lab report for the solid state pfysics course on the University of Seville's MSc ('Ciencia y tecnología de nuevos materiales').
+Most of the project is writen in the one Jupyter Notebook, should be decently easy to follow despite minimal comments.
 
-Here are the data, its processing and the results obteined in our group. We are happy to report we got full marks for this report!
+$\LARGE{\text{Module}}$
+
+For this we built a porpouse-made module for uncertanty propagation. Not much thought went into it. Very basic and probably just bad, but it gets the job done.
+
+$\LARGE{\text{Other}}$
+
+The rest of the files are either the data (in .csv, .numbers or .xlsx) of the output files from the Notebook.
